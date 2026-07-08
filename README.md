@@ -4,6 +4,9 @@
 
 This project is a Machine Learning-based Fake Review Detection system that classifies customer reviews as **Genuine** or **Fake**. The application uses Natural Language Processing (NLP) techniques to preprocess review text and converts it into numerical features using TF-IDF Vectorization. A Random Forest Classifier is trained on the processed data to predict whether a review is authentic or deceptive. The trained model is deployed through a Streamlit web application, allowing users to enter a review and receive an instant prediction.
 
+Check out: 
+https://fakereviewdetectionusingrandomforest-msgvtcgc7y3hwuwmjrkzhj.streamlit.app/
+
 ## Features
 
 * Text preprocessing and cleaning
